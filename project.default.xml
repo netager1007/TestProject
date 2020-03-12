@@ -1,0 +1,13 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (py37tf115)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="pyconsole" />
+      </component>
+      <component name="PyConsoleOptionsProvider">
+        <option name="myShowVariablesByDefault" value="false" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
